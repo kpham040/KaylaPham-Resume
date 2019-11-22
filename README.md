@@ -1,6 +1,5 @@
+# Kayla Pham
 
-# Welcome to LearnCS8 Resume Website
+![Preview](https://lh3.googleusercontent.com/tX3NUHVKEbAmd0SWwpIO8tCl_zePNUYPKZzuylW4pHS2mGA8EUq497XPqhdt-IptBAexWwzxowk "Preview")
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
